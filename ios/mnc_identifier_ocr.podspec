@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
 
-  s.dependency 'MNCIdentifier/OCR', :git => 'https://github.com/ekasetiawans/mnc-identifiersdk-ios.git'
+  s.dependency 'MNCIdentifier/OCR', '1.1.4'
   s.dependency 'GoogleMLKit/TextRecognition', '2.0.0'
   s.dependency 'GoogleMLKit/ObjectDetection', '3.0.0'
 

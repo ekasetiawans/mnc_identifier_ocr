@@ -18,7 +18,7 @@ A new flutter plugin project.
 
   s.dependency 'MNCIdentifier/OCR', '1.1.0'
   s.dependency 'GoogleMLKit/TextRecognition', '2.3.0'
-  s.dependency 'GoogleMLKit/ObjectDetection', '2.3.0'
+  s.dependency 'GoogleMLKit/ObjectDetection', '3.0.0'
 
   s.platform = :ios, '11.0'
   s.static_framework = true
